@@ -44,7 +44,7 @@ cat data/usergraph/*.txt > data/yoga_usergraph.txt
 
 ## Create Embeddings:
 
-1) Create description, location, tweets embeddings using pre-trained Word2Vec and Emoji2Vec. 
+1) Create description, location, tweets embeddings using pre-trained Word2Vec and Emoji2Vec. This will take ~2 hours to run in CPU.
 
 ```
 create_embeddings.ipynb
