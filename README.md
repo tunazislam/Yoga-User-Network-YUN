@@ -1,28 +1,57 @@
-# Yoga-User-Network-YUN
-Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information
+Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information
+
+#Yoga User Network (YUN)
 
 ## Data:
 
-1. data/yoga_user_name_loc_des_mergetweets_yoga_1300_lb.csv file contains 6 columns: name, location, description, text, utype, umotivation
+1. Please download the 'data' folder from following link:
 
+[[YUN Data]](https://drive.google.com/drive/folders/1AfGoO4TCXpEsDa3ywcACGL1y5K1zvFtT?usp=sharing)
 
-2. Download pre-trained Word2Vec from this link and save it inside the  pre-trained folder 
+2. 'data' folder should be kept inside the 'Yoga-User-Network-YUN' folder. 
+
+data/yoga_user_name_loc_des_mergetweets_yoga_1300_lb.csv file contains 6 columns: name, location, description, text, utype, umotivation
+
+3. Please download pre-trained Word2Vec from this link and save it inside the  pre-trained folder 
 
 [[Word2Vec]](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 
 pre-trained/GoogleNews-vectors-negative300.bin
 
-3. Pre-trained emoji2vec.bin is inside pre-trained folder 
+4. Pre-trained emoji2vec.bin is inside pre-trained folder 
 
 pre-trained/emoji2vec.bin
 
-4. Train and Test data are inside data folder. 
+5. Train and Test data are inside data folder. 
 
 data/train.txt
 
 data/test.txt
 
 
+## Computing Machine:
+
+```
+OS: MacBookPro, Processor: 2.5 GHz Dual-Core Intel Core i7, Memory: 16 GB 2133 MHz LPDDR3
+```
+
+## Software Packages and libraries:
+
+```
+python 3.6.6
+PyTorch 1.1.0
+jupiter notebook
+pandas
+gensim
+nltk
+spacy
+emoji
+sklearn
+matplotlib
+numpy
+preprocessor
+
+```
 ## Construct User Networks:
 
 1. Create user graphs:
@@ -62,7 +91,10 @@ data/tweetsEmbeddings.pt
 
 2) Create user network embeddings using Node2Vec and input graph for this is data/yoga_usergraph.txt
 
+Please download Node2Vec from this link:
 
+https://github.com/aditya-grover/node2vec
+ 
 This will create following embedding:
 
 data/userNetworkEmd.emd
