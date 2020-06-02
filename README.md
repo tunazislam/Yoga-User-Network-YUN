@@ -1,6 +1,7 @@
+# Yoga-User-Network-YUN
+
 Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information
 
-#Yoga User Network (YUN)
 
 ## Data:
 
