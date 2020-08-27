@@ -9,7 +9,7 @@ Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations 
 
 [[YUN Data]](https://drive.google.com/drive/folders/1AfGoO4TCXpEsDa3ywcACGL1y5K1zvFtT?usp=sharing)
 
-2. 'data' folder should be kept inside the 'Yoga-User-Network-YUN' folder. 
+2. 'data' folder should be kept inside the 'Yoga-User-Network-YUN/code/' folder. 
 
 data/yoga_user_name_loc_des_mergetweets_yoga_1300_lb.csv file contains 6 columns: name, location, description, text, utype, umotivation
 
