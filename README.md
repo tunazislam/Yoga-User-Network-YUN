@@ -17,7 +17,7 @@ data/yoga_user_name_loc_des_mergetweets_yoga_1300_lb.csv file contains 6 columns
 
 [[Word2Vec]](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 
-pre-trained/GoogleNews-vectors-negative300.bin
+code/pre-trained/GoogleNews-vectors-negative300.bin
 
 4. Pre-trained emoji2vec.bin is inside 'code/pre-trained/' folder 
 
