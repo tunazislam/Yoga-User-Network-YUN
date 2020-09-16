@@ -53,6 +53,12 @@ numpy
 preprocessor
 
 ```
+## Run all codes from 'code' directory.
+
+```
+cd code
+```
+
 ## Construct User Networks:
 
 1. Create user graphs:
