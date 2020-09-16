@@ -13,15 +13,15 @@ Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations 
 
 data/yoga_user_name_loc_des_mergetweets_yoga_1300_lb.csv file contains 6 columns: name, location, description, text, utype, umotivation
 
-3. Please download pre-trained Word2Vec from this link and save it inside the  pre-trained folder 
+3. Please download pre-trained Word2Vec from this link and save it inside the  'code/pre-trained/' folder 
 
 [[Word2Vec]](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 
 pre-trained/GoogleNews-vectors-negative300.bin
 
-4. Pre-trained emoji2vec.bin is inside pre-trained folder 
+4. Pre-trained emoji2vec.bin is inside 'code/pre-trained/' folder 
 
-pre-trained/emoji2vec.bin
+code/pre-trained/emoji2vec.bin
 
 5. Train and Test data are inside data folder. 
 
