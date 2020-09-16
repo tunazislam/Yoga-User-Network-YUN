@@ -51,6 +51,7 @@ sklearn
 matplotlib
 numpy
 preprocessor
+transformers
 
 ```
 ## Run all codes from 'code' directory.
