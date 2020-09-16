@@ -179,3 +179,30 @@ DLN_utype_2layer_classifier.ipynb
 DLN_umotivation_2layer_classifier.ipynb
 
 ```
+
+9) Run fine-tuned BERT model on Description (Description_BERT).  Each of them will take ~10 minutes to run in GPU.
+
+```
+baseline_BERT_finetuned_description_utype_preprocessed.ipynb
+
+baseline_BERT_finetuned_description_umotivation_preprocessed.ipynb
+
+```
+
+10) Run fine-tuned BERT model on Location (Location_BERT). Each of them will take ~10 minutes to run in GPU.
+
+```
+baseline_BERT_finetuned_location_utype_preprocessed.ipynb
+
+baseline_BERT_finetuned_location_umotivation_preprocessed.ipynb
+
+```
+
+11) Run fine-tuned BERT model on Tweets (Tweets_BERT). Each of them will take ~15 minutes to run in GPU.
+
+```
+baseline_BERT_finetuned_tweet_utype_preprocessed_split.ipynb
+
+baseline_BERT_finetuned_tweet_umotivation_preprocessed_split.ipynb
+
+```
