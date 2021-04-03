@@ -211,7 +211,6 @@ baseline_BERT_finetuned_tweet_umotivation_preprocessed_split.ipynb
 
 If you find the paper useful in your work, please cite:
 
-
 ```
 @INPROCEEDINGS{9364605,
   author={T. {Islam} and D. {Goldwasser}},
