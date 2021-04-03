@@ -1,7 +1,6 @@
 # Yoga-User-Network-YUN
 
-Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information
-
+Paper Title: [[Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information]](https://ieeexplore.ieee.org/document/9378461) 
 
 ## Data:
 
@@ -207,3 +206,23 @@ baseline_BERT_finetuned_tweet_utype_preprocessed_split.ipynb
 baseline_BERT_finetuned_tweet_umotivation_preprocessed_split.ipynb
 
 ```
+
+## Citation:
+
+If you find the paper useful in your work, please cite:
+
+
+```
+@INPROCEEDINGS{9364605,
+  author={T. {Islam} and D. {Goldwasser}},
+  booktitle={2021 IEEE 15th International Conference on Semantic Computing (ICSC)}, 
+  title={Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={362-365},
+  doi={10.1109/ICSC50631.2021.00067}}
+
+```
+
+
