@@ -7,7 +7,7 @@ Paper Title: Do You Do Yoga? Understanding Twitter Users' Types and Motivations 
 
 1. Please download the 'data' folder from following link:
 
-[[YUN Data]](https://purdue0-my.sharepoint.com/:f:/g/personal/islam32_purdue_edu/EmMeLm92Vl9ApegKGhZ0eQkB0euQRjw0LlTwTdiDKROaow?e=RxAula)
+[[YUN Data]](https://purdue0-my.sharepoint.com/:f:/g/personal/islam32_purdue_edu/EmMeLm92Vl9ApegKGhZ0eQkB0euQRjw0LlTwTdiDKROaow?e=h0omny)
 
 2. 'data' folder should be kept inside the 'Yoga-User-Network-YUN/code/' folder. 
 
