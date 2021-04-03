@@ -1,6 +1,6 @@
 # Yoga-User-Network-YUN
 
-Paper Title: [[Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information]](https://ieeexplore.ieee.org/document/9378461) 
+Paper Title: [[Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information]](https://ieeexplore.ieee.org/document/9364605) 
 
 ## Data:
 
