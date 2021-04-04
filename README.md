@@ -1,10 +1,10 @@
 # Yoga-User-Network-YUN
 
-Paper Title: [[Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information]](https://ieeexplore.ieee.org/document/9364605) 
+This repository contains code for [[Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information]](https://ieeexplore.ieee.org/document/9364605), IEEE ICSC 2021.
 
 ## Data:
 
-1. Please download the 'data' folder from following link:
+1. Please download the 'data' folder from following link (On request):
 
 [[YUN Data]](https://purdue0-my.sharepoint.com/:f:/g/personal/islam32_purdue_edu/EmMeLm92Vl9ApegKGhZ0eQkB0euQRjw0LlTwTdiDKROaow?e=h0omny)
 
