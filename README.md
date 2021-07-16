@@ -212,15 +212,14 @@ baseline_BERT_finetuned_tweet_umotivation_preprocessed_split.ipynb
 If you find the paper useful in your work, please cite:
 
 ```
-@INPROCEEDINGS{9364605,
-  author={T. {Islam} and D. {Goldwasser}},
-  booktitle={2021 IEEE 15th International Conference on Semantic Computing (ICSC)}, 
-  title={Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information}, 
+@inproceedings{islam2021you,
+  title={Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information},
+  author={Islam, Tunazzina and Goldwasser, Dan},
+  booktitle={2021 IEEE 15th International Conference on Semantic Computing (ICSC)},
+  pages={362--365},
   year={2021},
-  volume={},
-  number={},
-  pages={362-365},
-  doi={10.1109/ICSC50631.2021.00067}}
+  organization={IEEE}
+}
 
 ```
 
